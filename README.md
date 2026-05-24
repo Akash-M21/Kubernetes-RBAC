@@ -1,4 +1,4 @@
-# Kubernetes RBAC Setup for User `akash`
+# Kubernetes RBAC Setup
 
 A complete hands-on guide to Kubernetes RBAC (Role-Based Access Control) using certificate-based authentication.
 
